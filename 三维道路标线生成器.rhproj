@@ -1,0 +1,65 @@
+{
+  "host": {
+    "name": "Rhino3D",
+    "version": "8.19.25132\u002B1001",
+    "os": "windows",
+    "arch": "x64"
+  },
+  "id": "6ba16997-5d1b-4237-bba1-34c087662d51",
+  "identity": {
+    "name": "\u4E09\u7EF4\u9053\u8DEF\u6807\u7EBF\u751F\u6210\u5668",
+    "version": "0.1",
+    "publisher": {
+      "email": "742027437@qq.com",
+      "name": "ZCCCCC"
+    },
+    "copyright": "\u7248\u6743 \u00A9 2026 ZCCCCC",
+    "url": "https://space.bilibili.com/363855056?spm_id_from=333.1007.0.0",
+    "image": {
+      "dark": {
+        "type": "svg",
+        "data": "PHN2ZyB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmlld0JveD0iMHB0IDBwdCA0OHB0IDQ4cHQiIGZpbGwtZGFyaz0iI0ZGRiIgc3Ryb2tlLWRhcms9Im5vbmUiPg0KICA8bGluZSBmaWxsLWRhcms9IiNGRkYiIHN0cm9rZT0iI0ZGRiIgc3Ryb2tlLWRhcms9IiNGRkYiIHN0cm9rZS13aWR0aD0iM3B0IiB4MT0iMTAuNSIgeTE9IjMuNSIgeDI9IjEwLjUiIHkyPSIxMi41IiAvPg0KICA8bGluZSBmaWxsLWRhcms9IiNGRkYiIHN0cm9rZT0iI0ZGRiIgc3Ryb2tlLWRhcms9IiNGRkYiIHN0cm9rZS13aWR0aD0iM3B0IiB4MT0iMTAuNSIgeTE9IjE5LjUiIHgyPSIxMC41IiB5Mj0iMjkuNSIgLz4NCiAgPGxpbmUgZmlsbC1kYXJrPSIjRkZGIiBzdHJva2U9IiNGRkYiIHN0cm9rZS1kYXJrPSIjRkZGIiBzdHJva2Utd2lkdGg9IjNwdCIgeDE9IjEwLjUiIHkxPSIzNC41IiB4Mj0iMTAuNSIgeTI9IjQ1LjUiIC8\u002BDQogIDxsaW5lIGZpbGwtZGFyaz0iI0ZGRiIgc3Ryb2tlPSIjRkYwIiBzdHJva2UtZGFyaz0iI0ZGMCIgc3Ryb2tlLXdpZHRoPSIzcHQiIHgxPSIyMS41IiB5MT0iMC41IiB4Mj0iMjEuNSIgeTI9IjQ4LjUiIC8\u002BDQogIDxsaW5lIGZpbGwtZGFyaz0iI0ZGRiIgc3Ryb2tlPSIjRkYwIiBzdHJva2UtZGFyaz0iI0ZGMCIgc3Ryb2tlLXdpZHRoPSIzcHQiIHgxPSIyOC41IiB5MT0iMS41IiB4Mj0iMjguNSIgeTI9IjQ5LjUiIC8\u002BDQogIDxsaW5lIGZpbGwtZGFyaz0iI0ZGRiIgc3Ryb2tlPSIjRkZGIiBzdHJva2UtZGFyaz0iI0ZGRiIgc3Ryb2tlLXdpZHRoPSIzcHQiIHgxPSIzOC41IiB5MT0iMy41IiB4Mj0iMzguNSIgeTI9IjEyLjUiIC8\u002BDQogIDxsaW5lIGZpbGwtZGFyaz0iI0ZGRiIgc3Ryb2tlPSIjRkZGIiBzdHJva2UtZGFyaz0iI0ZGRiIgc3Ryb2tlLXdpZHRoPSIzcHQiIHgxPSIzOC41IiB5MT0iMTkuNSIgeDI9IjM4LjUiIHkyPSIyOS41IiAvPg0KICA8bGluZSBmaWxsLWRhcms9IiNGRkYiIHN0cm9rZT0iI0ZGRiIgc3Ryb2tlLWRhcms9IiNGRkYiIHN0cm9rZS13aWR0aD0iM3B0IiB4MT0iMzguNSIgeTE9IjM0LjUiIHgyPSIzOC41IiB5Mj0iNDUuNSIgLz4NCiAgPHJlY3QgZmlsbD0ibm9uZSIgZmlsbC1kYXJrPSJub25lIiBzdHJva2U9IiMwRkYiIHN0cm9rZS1kYXJrPSIjMEZGIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIuMDAwMDAwMDAwMDAwMDAxcHQiIHdpZHRoPSI0NyIgaGVpZ2h0PSI0NyIgeD0iMC41IiB5PSIwLjUiIHJ4PSIwIiByeT0iMCIgLz4NCjwvc3ZnPg=="
+      },
+      "projectIcon": {
+        "light": {
+          "bytes": "iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAOwgAADsIBFShKgAAAABhJREFUSEvtwQENAAAAwqD3T\u002B3sARQAADcJGAABCPu14gAAAABJRU5ErkJggg==",
+          "width": 24,
+          "height": 24
+        },
+        "dark": {
+          "bytes": "iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAOwgAADsIBFShKgAAAAJNJREFUSEvt0lEKgCAQBFCP0FG6QR6xG\u002BXJnBAXrHaMZUH8ccBAaXjUGgKAoas\u002BWgDsAA4AWzsLUV5Psk\u002Byj3\u002B9HpBQ8yibANVbgBsow4rOIb96FGCxADRTAHafLQDr9QA1LCOgegtwA6e8vLczE6B6FGCxADRTgPKpOefL84u\u002BvR6ghmUEVG8BbkDdZyOgeg0YuG6EuPB\u002B\u002Bs0FEAAAAABJRU5ErkJggg==",
+          "width": 24,
+          "height": 24
+        },
+        "icoData": "AAABAAEAGBgAAAEAIAB2AAAAFgAAAIlQTkcNChoKAAAADUlIRFIAAAAYAAAAGAgGAAAA4Hc9\u002BAAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsIAAA7CARUoSoAAAAAYSURBVEhL7cEBAQAAAICQ/q/uCAoAgKoBCRgAAS0m3YcAAAAASUVORK5CYII="
+      },
+      "categoryIcon": {
+        "light": {
+          "bytes": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAOwgAADsIBFShKgAAAABJJREFUOE9jYBgFo2AUjAIIAAAEEAABTLtGVQAAAABJRU5ErkJggg==",
+          "width": 16,
+          "height": 16
+        },
+        "dark": {
+          "bytes": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAOwgAADsIBFShKgAAAANFJREFUOE/dk7sNwlAMRV1kANKDBHPQMAZlRmAENiGioAklEgMANQNQkAWoaJNzkfMpeBBFAtFg6ckf2Ud\u002Blm0GF5PS8E05neds7jG3baJUrsOcqrYyzAwYAlfX7ku2BMslG0sm1x4vy/JYFMXC7bq2AUgaq5YqsQsA5JKWPwFEDSTqAQwlDV4AoXQBgqSnDgbeWkvvAgALSbN3gK9n8B2g2YO8bw\u002BAo3/jBRBKFyBI\u002Bqshfg7wk4RVBOsJ7F27P\u002BXQnnOWaOXnnHl8BLsYKttrH7\u002BMHV7zgA9KAAAAAElFTkSuQmCC",
+          "width": 16,
+          "height": 16
+        }
+      }
+    }
+  },
+  "settings": {
+    "buildPath": "build/",
+    "buildTarget": {
+      "host": {
+        "name": "Rhino3D",
+        "version": "8"
+      },
+      "title": "Rhino3D (8.*)",
+      "slug": "rh8"
+    },
+    "publishTarget": {
+      "title": "McNeel Yak \u670D\u52A1\u5668"
+    }
+  },
+  "codes": []
+}
