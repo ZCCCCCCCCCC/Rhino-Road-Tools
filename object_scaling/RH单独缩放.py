@@ -1,9 +1,12 @@
+#! python 3
+# -*- coding: utf-8 -*-
+
 import Rhino
 import scriptcontext as sc
 
 def ScaleEach():
     factor = 2.0
-    if sc.sticky.has_key("SCALEFACTOR"):
+    if "SCALEFACTOR" in sc.sticky:
         factor = float(sc.sticky["SCALEFACTOR"])
     
     objrefs = []
@@ -33,7 +36,7 @@ def ScaleEach():
             sc.sticky["SCALEFACTOR"] = factor
             continue
     
-    factor = sc.sticky["SCALEFACTOR"]
+    sc.sticky["SCALEFACTOR"] = factor
     if not objrefs:
         return
     

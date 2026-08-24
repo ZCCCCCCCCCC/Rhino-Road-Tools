@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RhinoUI major_ver="3" minor_ver="0" guid="89417421-6aa4-4446-9c8c-88f0e81013a1" localize="False" default_language_id="2052" dpi_scale="100">
+  <extend_rhino_menus>
+    <menu guid="50d5af31-01cb-4894-bea7-352705ef6793">
+      <text>
+        <locale_2052>道路工具箱菜单</locale_2052>
+      </text>
+    </menu>
+  </extend_rhino_menus>
+  <menus />
+  <tool_bar_groups>
+    <tool_bar_group guid="30e963c3-cdae-426b-89bc-5d2a080e39af" dock_bar_guid32="00000000-0000-0000-0000-000000000000" dock_bar_guid64="fc924d2e-b44a-40d5-8b78-201009b5b373" active_tool_bar_group="51a570f5-6df0-46ff-9b65-ae963f6d9088" single_file="False" hide_single_tab="False" point_floating="819,383">
+      <text>
+        <locale_2052>道路工具箱</locale_2052>
+      </text>
+      <tool_bar_group_item guid="51a570f5-6df0-46ff-9b65-ae963f6d9088" major_version="1" minor_version="1">
+        <text>
+          <locale_2052>常用</locale_2052>
+        </text>
+        <tool_bar_id>a4bff87a-005a-4794-b0cb-787f33f349ab</tool_bar_id>
+      </tool_bar_group_item>
+      <tool_bar_group_item guid="6a2d1f30-8b74-4c56-9de1-2f7a6b5c8041" major_version="1" minor_version="1">
+        <text>
+          <locale_2052>板块</locale_2052>
+        </text>
+        <tool_bar_id>b1c2d3e4-f5a6-4789-b012-c3d4e5f6a701</tool_bar_id>
+      </tool_bar_group_item>
+      <tool_bar_group_item guid="7b3e2041-9c85-4d67-aef2-308b7c6d9152" major_version="1" minor_version="1">
+        <text>
+          <locale_2052>放样</locale_2052>
+        </text>
+        <tool_bar_id>c2d3e4f5-a6b7-4890-c123-d4e5f6a7b812</tool_bar_id>
+      </tool_bar_group_item>
+      <tool_bar_group_item guid="8c4f3152-ad96-4e78-bf03-419c8d7ea263" major_version="1" minor_version="1">
+        <text>
+          <locale_2052>构造</locale_2052>
+        </text>
+        <tool_bar_id>d3e4f5a6-b7c8-4901-d234-e5f6a7b8c923</tool_bar_id>
+      </tool_bar_group_item>
+      <tool_bar_group_item guid="9d5a4263-bea7-4f89-c014-52ad9e8fb374" major_version="1" minor_version="1">
+        <text>
+          <locale_2052>路线</locale_2052>
+        </text>
+        <tool_bar_id>e4f5a6b7-c8d9-4012-e345-f6a7b8c9d034</tool_bar_id>
+      </tool_bar_group_item>
+      <tool_bar_group_item guid="ae6b5374-cfb8-409a-d125-63beaf90c485" major_version="1" minor_version="1">
+        <text>
+          <locale_2052>辅助</locale_2052>
+        </text>
+        <tool_bar_id>f5a6b7c8-d9e0-4123-f456-a7b8c9d0e145</tool_bar_id>
+      </tool_bar_group_item>
+      <dock_bar_info dpi_scale="100" dock_bar="False" docking="True" horz="False" visible="False" floating="True" mru_float_style="8192" bar_id="59463" mru_width="420" point_pos="-2,-2" float_point="819,383" rect_mru_dock_pos="0,0,0,0" dock_location_u="59419" dock_location="top" float_size="420,300" />
+    </tool_bar_group>
+  </tool_bar_groups>
+  <tool_bars>
+    <tool_bar guid="a4bff87a-005a-4794-b0cb-787f33f349ab">
+      <text>
+        <locale_2052>常用</locale_2052>
+      </text>
+      <tool_bar_item guid="77571bc5-c751-4804-9e93-df5dc91bd40a">
+        <text>
+          <locale_2052>多选提取顶部外轮廓</locale_2052>
+        </text>
+        <left_macro_id>ed595564-4567-4a33-a479-b9bc62e6cb3c</left_macro_id>
+      </tool_bar_item>
+      <tool_bar_item guid="b2c8a4e3-5f6d-4a9b-9f1e-3b6d7c2a8e40">
+        <text>
+          <locale_2052>绿化带板块中线</locale_2052>
+        </text>
+        <left_macro_id>f4a91d72-8d3e-4b6f-a2c1-7e5b9d0f3a68</left_macro_id>
+      </tool_bar_item>
+      <tool_bar_item guid="021ee6ca-d05d-4c5b-9164-5739532b9e1f">
+        <text>
+          <locale_2052>沿线阵列</locale_2052>
+        </text>
+        <left_macro_id>92454300-d3c0-4570-8d9d-0faa1b0d11b0</left_macro_id>
+      </tool_bar_item>
+      <tool_bar_item guid="7314084b-bb96-44fa-80bd-8a0f15bfffd7">
+        <text><locale_2052>路灯行道树放样</locale_2052></text>
+        <left_macro_id>9fc794b1-fdbc-4b78-87e3-0b6b655c9edb</left_macro_id>
+      </tool_bar_item>
+      <tool_bar_item guid="eb70b2f5-031f-4432-a100-ecc41ac87142">
+        <text><locale_2052>三维道路标线</locale_2052></text>
+        <left_macro_id>67c5b916-7fd4-466f-92f1-20b9ef0775fc</left_macro_id>
+      </tool_bar_item>
+    </tool_bar>
+    <tool_bar guid="b1c2d3e4-f5a6-4789-b012-c3d4e5f6a701">
+      <text>
+        <locale_2052>板块</locale_2052>
+      </text>
+      <tool_bar_item guid="c1d2e3f4-a5b6-4789-c012-d3e4f5a6b701">
+        <text><locale_2052>多选提取顶部外轮廓</locale_2052></text>
+        <left_macro_id>ed595564-4567-4a33-a479-b9bc62e6cb3c</left_macro_id>
+      </tool_bar_item>
+      <tool_bar_item guid="d2e3f4a5-b6c7-4890-d123-e4f5a6b7c812">
+        <text><locale_2052>绿化带板块中线</locale_2052></text>
+        <left_macro_id>f4a91d72-8d3e-4b6f-a2c1-7e5b9d0f3a68</left_macro_id>
+      </tool_bar_item>
+      <tool_bar_item guid="e3f4a5b6-c7d8-4901-e234-f5a6b7c8d923">
+        <text><locale_2052>竖直轮廓扫掠</locale_2052></text>
+        <left_macro_id>738f6726-a587-438a-9c2d-dadc0d3bd339</left_macro_id>
+      </tool_bar_item>
+      <tool_bar_item guid="f4a5b6c7-d8e9-4012-f345-a6b7c8d9e034">
+        <text><locale_2052>半封闭中空顶板</locale_2052></text>
+        <left_macro_id>bd5821a5-526e-45d5-a970-de7c992feca7</left_macro_id>
+      </tool_bar_item>
+    </tool_bar>
+    <tool_bar guid="c2d3e4f5-a6b7-4890-c123-d4e5f6a7b812">
+      <text>
+        <locale_2052>放样</locale_2052>
+      </text>
+      <tool_bar_item guid="a5b6c7d8-e9f0-4123-a456-b7c8d9e0f145">
+        <text><locale_2052>沿线阵列</locale_2052></text>
+        <left_macro_id>92454300-d3c0-4570-8d9d-0faa1b0d11b0</left_macro_id>
+      </tool_bar_item>
+      <tool_bar_item guid="b6c7d8e9-f0a1-4234-b567-c8d9e0f1a256">
+        <text><locale_2052>路灯行道树放样</locale_2052></text>
+        <left_macro_id>9fc794b1-fdbc-4b78-87e3-0b6b655c9edb</left_macro_id>
+      </tool_bar_item>
+      <tool_bar_item guid="c7d8e9f0-a1b2-4345-c678-d9e0f1a2b367">
+        <text><locale_2052>沿线檩条</locale_2052></text>
+        <left_macro_id>f127bf1f-f3d3-476a-a073-991445f759e9</left_macro_id>
+      </tool_bar_item>
+      <tool_bar_item guid="d8e9f0a1-b2c3-4456-d789-e0f1a2b3c478">
+        <text><locale_2052>横梁放样</locale_2052></text>
+        <left_macro_id>8acf479e-dc18-4bc7-8b71-9beddb262efd</left_macro_id>
+      </tool_bar_item>
+      <tool_bar_item guid="e9f0a1b2-c3d4-4567-e8f9-0a1b2c3d4e89">
+        <text><locale_2052>三维道路标线</locale_2052></text>
+        <left_macro_id>67c5b916-7fd4-466f-92f1-20b9ef0775fc</left_macro_id>
+      </tool_bar_item>
+    </tool_bar>
+    <tool_bar guid="d3e4f5a6-b7c8-4901-d234-e5f6a7b8c923">
+      <text>
+        <locale_2052>构造</locale_2052>
+      </text>
+      <tool_bar_item guid="f0a1b2c3-d4e5-4678-f9a0-1b2c3d4e5f90">
+        <text><locale_2052>横梁放样</locale_2052></text>
+        <left_macro_id>8acf479e-dc18-4bc7-8b71-9beddb262efd</left_macro_id>
+      </tool_bar_item>
+      <tool_bar_item guid="a1b2c3d4-e5f6-4789-a0b1-c2d3e4f5a601">
+        <text><locale_2052>沿线檩条</locale_2052></text>
+        <left_macro_id>f127bf1f-f3d3-476a-a073-991445f759e9</left_macro_id>
+      </tool_bar_item>
+      <tool_bar_item guid="b2c3d4e5-f6a7-4890-b1c2-d3e4f5a6b712">
+        <text><locale_2052>断面檩条</locale_2052></text>
+        <left_macro_id>613af309-d9e1-4166-b8cf-8f07c1fa9a71</left_macro_id>
+      </tool_bar_item>
+      <tool_bar_item guid="c3d4e5f6-a7b8-4901-c2d3-e4f5a6b7c823">
+        <text><locale_2052>面内檩条</locale_2052></text>
+        <left_macro_id>687d1807-14cc-4c98-9186-6d08b61bef87</left_macro_id>
+      </tool_bar_item>
+      <tool_bar_item guid="d4e5f6a7-b8c9-4012-d3e4-f5a6b7c8d934">
+        <text><locale_2052>半封闭中空顶板</locale_2052></text>
+        <left_macro_id>bd5821a5-526e-45d5-a970-de7c992feca7</left_macro_id>
+      </tool_bar_item>
+    </tool_bar>
+    <tool_bar guid="e4f5a6b7-c8d9-4012-e345-f6a7b8c9d034">
+      <text>
+        <locale_2052>路线</locale_2052>
+      </text>
+      <tool_bar_item guid="e5f6a7b8-c9d0-4123-e456-f7a8b9c0d145">
+        <text><locale_2052>EICAD 单路线导入</locale_2052></text>
+        <left_macro_id>72494185-3060-4847-af5d-530751efa5ad</left_macro_id>
+      </tool_bar_item>
+      <tool_bar_item guid="f6a7b8c9-d0e1-4234-f567-a8b9c0d1e256">
+        <text><locale_2052>EICAD 多路线导入</locale_2052></text>
+        <left_macro_id>78154508-c86c-4fc7-b692-92048db40778</left_macro_id>
+      </tool_bar_item>
+      <tool_bar_item guid="a7b8c9d0-e1f2-4345-a678-b9c0d1e2f367">
+        <text><locale_2052>LandXML 多路线导入</locale_2052></text>
+        <left_macro_id>cc83bb55-d492-4722-9ca9-8ff55369c800</left_macro_id>
+      </tool_bar_item>
+      <tool_bar_item guid="b8c9d0e1-f2a3-4456-b789-c0d1e2f3a478">
+        <text><locale_2052>EICAD 走廊生成</locale_2052></text>
+        <left_macro_id>b95d9a06-b45d-4873-9085-370aa655250a</left_macro_id>
+      </tool_bar_item>
+      <tool_bar_item guid="c9d0e1f2-a3b4-4567-c8d9-0e1f2a3b4c89">
+        <text><locale_2052>道路断面编辑器</locale_2052></text>
+        <left_macro_id>5491fd03-e98f-4b31-b1d8-02b90579a1b1</left_macro_id>
+      </tool_bar_item>
+      <tool_bar_item guid="d0e1f2a3-b4c5-4678-d9e0-1f2a3b4c5d90">
+        <text><locale_2052>道路板块编辑器</locale_2052></text>
+        <left_macro_id>6202b449-376d-4245-b2e6-9977dc916471</left_macro_id>
+      </tool_bar_item>
+    </tool_bar>
+    <tool_bar guid="f5a6b7c8-d9e0-4123-f456-a7b8c9d0e145">
+      <text>
+        <locale_2052>辅助</locale_2052>
+      </text>
+      <tool_bar_item guid="e1f2a3b4-c5d6-4789-e0f1-2a3b4c5d6e01">
+        <text><locale_2052>按材质选择对象</locale_2052></text>
+        <left_macro_id>13c70ea9-6369-4845-8868-010c16ea7aa9</left_macro_id>
+      </tool_bar_item>
+      <tool_bar_item guid="f2a3b4c5-d6e7-4890-f1a2-3b4c5d6e7f12">
+        <text><locale_2052>对象独立缩放</locale_2052></text>
+        <left_macro_id>12047c73-7c6c-4189-96de-f73debce49e0</left_macro_id>
+      </tool_bar_item>
+      <tool_bar_item guid="a3b4c5d6-e7f8-4901-a2b3-c4d5e6f7a801">
+        <text><locale_2052>图块简化</locale_2052></text>
+        <left_macro_id>c4d5e6f7-a8b9-4012-c3d4-e5f6a7b8c912</left_macro_id>
+      </tool_bar_item>
+      <tool_bar_item guid="e96df10b-e673-44c2-9b14-b598bf5aec0e">
+        <text><locale_2052>批量标注 Z 值</locale_2052></text>
+        <left_macro_id>2776f0e0-1ba6-40dd-8b29-2e6d2cdd0685</left_macro_id>
+      </tool_bar_item>
+    </tool_bar>
+  </tool_bars>
+  <macros>
+    <macro_item guid="ed595564-4567-4a33-a479-b9bc62e6cb3c">
+      <text>
+        <locale_2052>多选提取顶部外轮廓</locale_2052>
+      </text>
+      <tooltip>
+        <locale_2052>为多个道路板块提取顶部外轮廓</locale_2052>
+      </tooltip>
+      <button_text>
+        <locale_2052>顶部外轮廓</locale_2052>
+      </button_text>
+      <script>! _-ScriptEditor _Run "D:\PythonProject\Rhino-Road-Tools\road_boundary_extraction\道路上表面外轮廓提取.py"</script>
+    </macro_item>
+    <macro_item guid="f4a91d72-8d3e-4b6f-a2c1-7e5b9d0f3a68">
+      <text><locale_2052>绿化带板块中线</locale_2052></text>
+      <tooltip><locale_2052>从绿化带板块或闭合上轮廓提取三维中线</locale_2052></tooltip>
+      <button_text><locale_2052>板块中线</locale_2052></button_text>
+      <script>! _-ScriptEditor _Run "D:\PythonProject\Rhino-Road-Tools\road_centerline_extraction\绿化带板块中线提取.py"</script>
+    </macro_item>
+    <macro_item guid="13c70ea9-6369-4845-8868-010c16ea7aa9">
+      <text>
+        <locale_2052>按材质选择对象</locale_2052>
+      </text>
+      <tooltip>
+        <locale_2052>选择与样本对象使用相同材质的对象</locale_2052>
+      </tooltip>
+      <button_text>
+        <locale_2052>按材质选择</locale_2052>
+      </button_text>
+      <script>! _-ScriptEditor _Run "D:\PythonProject\Rhino-Road-Tools\object_selection\按材质选择对象.py"</script>
+    </macro_item>
+    <macro_item guid="92454300-d3c0-4570-8d9d-0faa1b0d11b0">
+      <text><locale_2052>沿线阵列</locale_2052></text>
+      <tooltip><locale_2052>沿三维曲线阵列对象</locale_2052></tooltip>
+      <button_text><locale_2052>沿线阵列</locale_2052></button_text>
+      <script>! _-ScriptEditor _Run "D:\PythonProject\Rhino-Road-Tools\curve_array\沿线阵列.py"</script>
+    </macro_item>
+    <macro_item guid="8acf479e-dc18-4bc7-8b71-9beddb262efd">
+      <text><locale_2052>横梁放样</locale_2052></text>
+      <tooltip><locale_2052>选择左右立柱连接端对象/图块 Loft 生成横梁实体</locale_2052></tooltip>
+      <button_text><locale_2052>横梁放样</locale_2052></button_text>
+      <script>! _-ScriptEditor _Run "D:\PythonProject\Rhino-Road-Tools\beam_loft\横梁放样.py"</script>
+    </macro_item>
+    <macro_item guid="f127bf1f-f3d3-476a-a073-991445f759e9">
+      <text><locale_2052>沿线檩条</locale_2052></text>
+      <tooltip><locale_2052>沿曲线或边线生成矩形檩条实体</locale_2052></tooltip>
+      <button_text><locale_2052>沿线檩条</locale_2052></button_text>
+      <script>! _-ScriptEditor _Run "D:\PythonProject\Rhino-Road-Tools\purlin_along_curve\沿线檩条.py"</script>
+    </macro_item>
+    <macro_item guid="613af309-d9e1-4166-b8cf-8f07c1fa9a71">
+      <text><locale_2052>断面檩条</locale_2052></text>
+      <tooltip><locale_2052>选择路线和声屏障横断面，均布沿线连续檩条实体</locale_2052></tooltip>
+      <button_text><locale_2052>断面檩条</locale_2052></button_text>
+      <script>! _-ScriptEditor _Run "D:\PythonProject\Rhino-Road-Tools\section_purlin_array\断面檩条阵列.py"</script>
+    </macro_item>
+    <macro_item guid="687d1807-14cc-4c98-9186-6d08b61bef87">
+      <text><locale_2052>面内檩条</locale_2052></text>
+      <tooltip><locale_2052>选择面和两条长边，在长边之间均分生成檩条实体</locale_2052></tooltip>
+      <button_text><locale_2052>面内檩条</locale_2052></button_text>
+      <script>! _-ScriptEditor _Run "D:\PythonProject\Rhino-Road-Tools\face_purlin_between_edges\面内檩条.py"</script>
+    </macro_item>
+    <macro_item guid="12047c73-7c6c-4189-96de-f73debce49e0">
+      <text><locale_2052>对象独立缩放</locale_2052></text>
+      <tooltip><locale_2052>按各对象包围盒中心独立缩放</locale_2052></tooltip>
+      <button_text><locale_2052>独立缩放</locale_2052></button_text>
+      <script>! _-ScriptEditor _Run "D:\PythonProject\Rhino-Road-Tools\object_scaling\RH单独缩放.py"</script>
+    </macro_item>
+    <macro_item guid="c4d5e6f7-a8b9-4012-c3d4-e5f6a7b8c912">
+      <text><locale_2052>图块批量简化替换</locale_2052></text>
+      <tooltip><locale_2052>将图块批量替换为定向 Box 或指定替代图块</locale_2052></tooltip>
+      <button_text><locale_2052>图块简化</locale_2052></button_text>
+      <script>! _-ScriptEditor _Run "D:\PythonProject\Rhino-Road-Tools\object_replacement\图块批量简化替换.py"</script>
+    </macro_item>
+    <macro_item guid="67c5b916-7fd4-466f-92f1-20b9ef0775fc">
+      <text><locale_2052>三维道路标线</locale_2052></text>
+      <tooltip><locale_2052>沿三维曲线创建虚线或实线道路标线</locale_2052></tooltip>
+      <button_text><locale_2052>道路标线</locale_2052></button_text>
+      <script>! _-ScriptEditor _Run "D:\PythonProject\Rhino-Road-Tools\road_markings\基于三维线的虚实标线创建.py"</script>
+    </macro_item>
+    <macro_item guid="9fc794b1-fdbc-4b78-87e3-0b6b655c9edb">
+      <text><locale_2052>路灯行道树放样</locale_2052></text>
+      <tooltip><locale_2052>沿道路曲线布置路灯和行道树</locale_2052></tooltip>
+      <button_text><locale_2052>路灯行道树</locale_2052></button_text>
+      <script>! _-ScriptEditor _Run "D:\PythonProject\Rhino-Road-Tools\street_lighting_and_trees\路灯行道树一键放样.py"</script>
+    </macro_item>
+    <macro_item guid="738f6726-a587-438a-9c2d-dadc0d3bd339">
+      <text><locale_2052>竖直轮廓扫掠</locale_2052></text>
+      <tooltip><locale_2052>将 Top 平面轮廓沿三维路径竖直扫掠</locale_2052></tooltip>
+      <button_text><locale_2052>竖直扫掠</locale_2052></button_text>
+      <script>! _-ScriptEditor _Run "D:\PythonProject\Rhino-Road-Tools\sweep\三维曲线竖直轮廓扫掠.py"</script>
+    </macro_item>
+    <macro_item guid="bd5821a5-526e-45d5-a970-de7c992feca7">
+      <text><locale_2052>半封闭中空顶板</locale_2052></text>
+      <tooltip><locale_2052>创建半封闭中空顶板</locale_2052></tooltip>
+      <button_text><locale_2052>中空顶板</locale_2052></button_text>
+      <script>! _-ScriptEditor _Run "D:\PythonProject\Rhino-Road-Tools\semi_enclosed_roof\半封闭中空顶板.py"</script>
+    </macro_item>
+    <macro_item guid="72494185-3060-4847-af5d-530751efa5ad">
+      <text><locale_2052>EICAD 单路线导入</locale_2052></text>
+      <tooltip><locale_2052>导入单条 EICAD 路线中心线</locale_2052></tooltip>
+      <button_text><locale_2052>EICAD 单导入</locale_2052></button_text>
+      <script>! _-ScriptEditor _Run "D:\PythonProject\Rhino-Road-Tools\eicad_rhino\eicad_import\rhino_import_eicad_py3.py"</script>
+    </macro_item>
+    <macro_item guid="78154508-c86c-4fc7-b692-92048db40778">
+      <text><locale_2052>EICAD 多路线导入</locale_2052></text>
+      <tooltip><locale_2052>从 EICAD 项目中选择并导入多条路线</locale_2052></tooltip>
+      <button_text><locale_2052>EICAD 多导入</locale_2052></button_text>
+      <script>! _-ScriptEditor _Run "D:\PythonProject\Rhino-Road-Tools\eicad_rhino\eicad_import\rhino_import_eicad_multi_py3.py"</script>
+    </macro_item>
+    <macro_item guid="cc83bb55-d492-4722-9ca9-8ff55369c800">
+      <text><locale_2052>LandXML 多路线导入</locale_2052></text>
+      <tooltip><locale_2052>从 LandXML 文件中选择并导入多条路线</locale_2052></tooltip>
+      <button_text><locale_2052>LandXML 导入</locale_2052></button_text>
+      <script>! _-ScriptEditor _Run "D:\PythonProject\Rhino-Road-Tools\eicad_rhino\landxml_import\rhino_import_landxml_multi_py3.py"</script>
+    </macro_item>
+    <macro_item guid="b95d9a06-b45d-4873-9085-370aa655250a">
+      <text><locale_2052>EICAD 走廊生成</locale_2052></text>
+      <tooltip><locale_2052>根据 EICAD 中心线和 JSON 断面定义生成走廊</locale_2052></tooltip>
+      <button_text><locale_2052>生成走廊</locale_2052></button_text>
+      <script>! _-ScriptEditor _Run "D:\PythonProject\Rhino-Road-Tools\eicad_rhino\corridor_modeling\rhino_build_corridor_py3.py"</script>
+    </macro_item>
+    <macro_item guid="5491fd03-e98f-4b31-b1d8-02b90579a1b1">
+      <text><locale_2052>道路断面编辑器</locale_2052></text>
+      <tooltip><locale_2052>编辑 EICAD 走廊断面 JSON 定义</locale_2052></tooltip>
+      <button_text><locale_2052>断面编辑</locale_2052></button_text>
+      <script>! _-ScriptEditor _Run "D:\PythonProject\Rhino-Road-Tools\eicad_rhino\corridor_modeling\rhino_corridor_editor_py3.py"</script>
+    </macro_item>
+    <macro_item guid="6202b449-376d-4245-b2e6-9977dc916471">
+      <text><locale_2052>道路板块编辑器</locale_2052></text>
+      <tooltip><locale_2052>编辑道路板块方案并生成走廊</locale_2052></tooltip>
+      <button_text><locale_2052>板块编辑</locale_2052></button_text>
+      <script>! _-ScriptEditor _Run "D:\PythonProject\Rhino-Road-Tools\eicad_rhino\corridor_modeling\rhino_corridor_block_editor_py3.py"</script>
+    </macro_item>
+    <macro_item guid="2776f0e0-1ba6-40dd-8b29-2e6d2cdd0685">
+      <text><locale_2052>批量标注点 Z 值</locale_2052></text>
+      <tooltip><locale_2052>批量读取点或点云的 Z 坐标并生成可导出 DWG 的文字标注</locale_2052></tooltip>
+      <button_text><locale_2052>标注 Z 值</locale_2052></button_text>
+      <script>! _-ScriptEditor _Run "D:\PythonProject\Rhino-Road-Tools\z_value_labeling\批量标注点Z值.py"</script>
+    </macro_item>
+  </macros>
+  <bitmaps />
+</RhinoUI>
